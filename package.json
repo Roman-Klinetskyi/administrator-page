@@ -18,7 +18,7 @@
     "fs-extra": "^7.0.1",
     "http-errors": "~1.6.2",
     "logger": "0.0.1",
-    "mongoose": "^5.5.1",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.0",
     "nconf": "^0.10.0",
     "url-parse": "^1.4.6"
